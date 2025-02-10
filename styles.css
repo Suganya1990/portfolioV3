@@ -1,0 +1,22 @@
+*{
+
+}
+
+
+.nav-item{
+    padding-left: 3rem;
+    padding-right: 1rem;
+    
+}
+
+.nav-item a{
+    text-align: right;
+}
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+
+
+

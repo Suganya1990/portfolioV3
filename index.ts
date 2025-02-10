@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
-    <link rel="stylesheet" href="/styles.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Racing+Sans+One&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <title>Suganya Maheswaran: Front End Developer</title>
-</head>
-<body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-        <a class="navbar-brand" href="#">Suganya M</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse " id="navbarSupportedContent">
-     
-        <ul class="navbar-nav ml-auto">
-            <li class="nav-item"><a class="nav-link" href="#about">about</a></li>
-            <li class="nav-item"><a class="nav-link" href="#skills">skills</a></li>
-            <li class="nav-item"><a class="nav-link" href="#projects">projects</a></li>
-            <li class="nav-item"><a class="nav-link" href="#contact">contact</a></li>
-        </ul>
-        
-        </div>   
-      </nav>
+Hero Section
       <section>
         <h1>Hello, World</h1>
         <h2>I'm Suganya, and I'm a
@@ -59,7 +29,7 @@
             </div>
             <div>
                 <p>Hey there, Thanks for stopping by! I am Suganya and I am a front-end developer and lifelong learner with a passion for solving problems</p>
-                <p>As a natural problem solver, who strives for precision and quality of work, web development feels like a natural (yet challenging!) next step in my career.</p>
+                <p> As a natural problem solver, who strives for precision and quality of work, web development feels like a natural (yet challenging!) next step in my career.</p>
                 <p>When I'm not coding, I enjoy deep diving hated companies to invest in, traveling, and lifting. Keep the mind body and soul strong</p>
             </div>
         </div>
@@ -249,7 +219,7 @@
                 </div>
                 <div>
                     <label for="message" class="srOnly">Write a message for Nicole</label>
-                    <textarea name="message" id="message" cols="30" rows="10" placeholder="Hi Suganya, I love web development data and opportunities. Let's meet for a virtual coffee chat! ☕️" required=""></textarea>
+                    <textarea name="message" id="message" cols="30" rows="10" placeholder="Hi Nicole, I love web development and museums too. Let's meet for a virtual coffee chat! ☕️" required=""></textarea>
                 </div>
                 <button type="submit">Submit</button>
                 <p id="formStatus"></p>
@@ -257,9 +227,3 @@
         </div>
     </div>
 </section>
-
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-</body>
-</html>
