@@ -19,4 +19,19 @@
 
 
 
+section{
+    max-height: 100vh;
+    height: 75vh;
+    
+}
 
+.hero--wrapper{
+
+    height: inherit;
+   padding: 3rem;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
